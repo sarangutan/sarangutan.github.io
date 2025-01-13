@@ -1,2 +1,2 @@
 # sarangutan
-https://game.sarangutan.com
+https://game.sarangutan.ca
